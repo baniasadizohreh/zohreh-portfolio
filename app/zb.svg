@@ -1,0 +1,36 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="512" height="512" rx="80" fill="#0B0B0B"/>
+
+  <circle
+    cx="256"
+    cy="256"
+    r="220"
+    fill="none"
+    stroke="#D6B36A"
+    stroke-width="6"
+  />
+
+  <text
+    x="210"
+    y="330"
+    text-anchor="middle"
+    font-family="Baskerville, Georgia, serif"
+    font-size="250"
+    font-weight="500"
+    fill="#D6B36A">
+    Z
+  </text>
+
+  <text
+    x="320"
+    y="400"
+    text-anchor="middle"
+    font-family="Baskerville, Georgia, serif"
+    font-size="220"
+    font-weight="500"
+    fill="#D6B36A">
+    B
+  </text>
+
+</svg>
