@@ -42,7 +42,7 @@ export default function Home() {
               View Expertise
             </a>
             <a
-              href="/experience.html"
+              href="/zohreh-portfolio/experience" 
               className="rounded-full border border-[#D6C39A]/30 px-7 py-3 font-semibold text-[#F7F3EA]"
             >
               Work Experience
