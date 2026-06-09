@@ -17,7 +17,7 @@ export default function Home() {
       <header className="relative z-10 mx-auto flex max-w-6xl items-center justify-between px-6 py-8">
         <div className="flex h-12 w-12 items-center justify-center rounded-2xl border border-[#D6C39A]/40 text-lg font-semibold text-[#D6C39A]">
           <Image
-              src="/zohreh-portfolio/zb.png"
+              src="/zohreh-portfolio/zb-transparent.png"
               alt="Zohreh Baniasadi"
               width={100}
               height={100}
@@ -92,7 +92,7 @@ export default function Home() {
             <div className="absolute -inset-4 rounded-[40px] bg-[#D6C39A]/10 blur-2xl" />
 
             <Image
-              src="/zohreh-portfolio/profile-hd.png"
+              src="/zohreh-portfolio/profile.png"
               alt="Zohreh Baniasadi"
               width={500}
               height={650}
